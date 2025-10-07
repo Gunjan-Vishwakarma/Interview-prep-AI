@@ -26,5 +26,3 @@ An intelligent MERN Stack web app that helps users prepare for interviews with A
 
 ---
 
-git clone https://github.com/yourusername/ai-interview-prep-app.git
-cd ai-interview-prep-app
